@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicHub", "MusicHub\MusicH
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTest_MusicHub", "NUnitTest_MusicHub\NUnitTest_MusicHub.csproj", "{8B306149-EDB6-423D-A314-E9B26BAFC03B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindFormMusicHub", "WindFormMusicHub\WindFormMusicHub.csproj", "{ECCBB625-7DA1-4729-B41D-2965550ABE35}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForm_MusicHub", "WinForm_MusicHub\WinForm_MusicHub.csproj", "{9F848B97-1AAD-4119-A92B-E6CF57D50CA6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{8B306149-EDB6-423D-A314-E9B26BAFC03B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B306149-EDB6-423D-A314-E9B26BAFC03B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B306149-EDB6-423D-A314-E9B26BAFC03B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{ECCBB625-7DA1-4729-B41D-2965550ABE35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{ECCBB625-7DA1-4729-B41D-2965550ABE35}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{ECCBB625-7DA1-4729-B41D-2965550ABE35}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{ECCBB625-7DA1-4729-B41D-2965550ABE35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F848B97-1AAD-4119-A92B-E6CF57D50CA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F848B97-1AAD-4119-A92B-E6CF57D50CA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F848B97-1AAD-4119-A92B-E6CF57D50CA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F848B97-1AAD-4119-A92B-E6CF57D50CA6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
